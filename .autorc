@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "BotStealer",
+  "repo": "container-voidpes",
+  "name": "BotStealer",
+  "email": "hschotte@student.cewa.edu.au",
+}
